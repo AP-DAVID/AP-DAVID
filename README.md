@@ -23,14 +23,6 @@ Also diving into the world of **blockchain** to see what magic I can cook with s
 
 ---
 
-## 📈 GitHub Stats
-
-![Abiodun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AP-DAVID&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AP-DAVID&layout=compact&theme=radical)
-
----
-
 ## 📬 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/akintolaabiodun]([https://linkedin.com/in/akintolaabiodun](https://www.linkedin.com/in/akintola-abiodun-054aa221a/))
